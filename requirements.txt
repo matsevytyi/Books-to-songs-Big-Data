@@ -1,0 +1,6 @@
+langchain_huggingface==0.1.2
+"pyarrow>=4.0.0"
+torch
+TensorRT
+faiss-gpu
+# faiss-cpu # if no gpu available
