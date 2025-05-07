@@ -2,6 +2,8 @@
 
 This is a recommendation system that selects music for books based on emotions from reviews. Our system follows the best pratices and combines two recommendation approaches: collaborative and content-based filtering.
 
+**Full presentation slides** are available at https://www.canva.com/design/DAGmtHRE8Y4/bQx4rllQNvJhDeSQR1nFSQ/edit?utm_content=DAGmtHRE8Y4
+
 ## Collaborative filtering
 
 <img width="918" alt="Image" src="https://github.com/user-attachments/assets/dd45172d-b5da-484f-8fa4-d9798b21a776" />
@@ -32,3 +34,11 @@ This is a recommendation system that selects music for books based on emotions f
 
 #### Output data:
 - list of recommended songs for a specific book
+
+## Contributors
+- Andrii Matsevytyi
+- Nazar Machekchin
+- Mariia Sychova
+- Tymofii Grynchuk
+- Kateryna Shulakova
+- Tetiana Holianska
