@@ -30,5 +30,5 @@ This is a recommendation system that selects music for books based on emotions f
 - search for k nearest neighbours
 - ranking
 
-#### Input:
+#### Output data:
 - list of recommended songs for a specific book
